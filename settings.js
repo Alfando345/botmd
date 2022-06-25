@@ -31,7 +31,7 @@
   global.author = 'P' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/KfA1AvCLIjq9yOhruIiDn4' // Ganti Sama Link Gc Mu
-  global.sessionName = 'hisoka'
+  global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/alfando_3398' // Ganti Sama Link Ig mu
